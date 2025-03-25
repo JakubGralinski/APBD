@@ -1,0 +1,15 @@
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/bin/Debug/net8.0/APBD_01
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/bin/Debug/net8.0/APBD_01.deps.json
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/bin/Debug/net8.0/APBD_01.runtimeconfig.json
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/bin/Debug/net8.0/APBD_01.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/bin/Debug/net8.0/APBD_01.pdb
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.AssemblyInfoInputs.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.AssemblyInfo.cs
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.csproj.CoreCompileInputs.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/refint/APBD_01.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.pdb
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.genruntimeconfig.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/ref/APBD_01.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_01/APBD_01/obj/Debug/net8.0/APBD_01.sourcelink.json

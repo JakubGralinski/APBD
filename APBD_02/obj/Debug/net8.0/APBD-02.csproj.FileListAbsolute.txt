@@ -1,0 +1,14 @@
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/bin/Debug/net8.0/APBD-02
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/bin/Debug/net8.0/APBD-02.deps.json
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/bin/Debug/net8.0/APBD-02.runtimeconfig.json
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/bin/Debug/net8.0/APBD-02.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/bin/Debug/net8.0/APBD-02.pdb
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.AssemblyInfoInputs.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.AssemblyInfo.cs
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.csproj.CoreCompileInputs.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/refint/APBD-02.dll
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.pdb
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/APBD-02.genruntimeconfig.cache
+/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD-02/obj/Debug/net8.0/ref/APBD-02.dll
