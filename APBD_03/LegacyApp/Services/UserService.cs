@@ -7,7 +7,7 @@ namespace LegacyApp
         private readonly IClientRepository clientRepo;
         private readonly IUserCreditServiceFactory creditServiceFactory;
         
-        public UserService() : this(new ClientRepository(), new UserCreditServiceFactory())
+        public UserService() : this(new ClientRepo(), new UserCreditServiceFactory())
         {
         }
         
