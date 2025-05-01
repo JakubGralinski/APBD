@@ -2,11 +2,6 @@
 
 A REST API for a travel agency database implementing CRUD operations using ADO.NET and SQL Server.
 
-## Requirements
-
-- .NET 8.0
-- SQL Server
-- Access to PJATK's database (2019SBD)
 
 ## Configuration
 
@@ -34,8 +29,6 @@ dotnet restore
 dotnet run
 ```
 
-The API will be available at `https://localhost:7777` (or the port specified in your launchSettings.json).
-
 ## Endpoints
 
 1. `GET /api/trips` - Get all available trips
@@ -44,12 +37,3 @@ The API will be available at `https://localhost:7777` (or the port specified in 
 4. `PUT /api/clients/{id}/trips/{tripId}` - Register a client for a trip
 5. `DELETE /api/clients/{id}/trips/{tripId}` - Unregister a client from a trip
 
-## Implementation Details
-
-- Uses ADO.NET with SqlConnection and SqlCommand (no Entity Framework)
-- Implements proper error handling with HTTP status codes
-- Follows REST API design principles
-- Uses parameterized queries to prevent SQL injection
-- Implements proper connection handling
-- Includes basic input validation
-- Documented with comments
