@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using StoreAPI.Data;
+using StoreAPI.Services;
 using StoreAPI.DTOs;
 
 namespace StoreAPI.Controllers;
@@ -8,20 +8,20 @@ namespace StoreAPI.Controllers;
 [Route("api/[controller]")]
 public class StoreController : ControllerBase
 {
-    private readonly ProductRepository _productRepository;
-    private readonly OrderRepository _orderRepository;
+    private readonly IProductService _productService;
+    private readonly IOrderService _orderService;
 
-    public StoreController(ProductRepository productRepository, OrderRepository orderRepository)
+    public StoreController(IProductService productService, IOrderService orderService)
     {
-        _productRepository = productRepository;
-        _orderRepository = orderRepository;
+        _productService = productService;
+        _orderService = orderService;
     }
 
     // GET: api/store/out-of-stock?sortBy=name|date
     [HttpGet("out-of-stock")]
     public async Task<ActionResult<IEnumerable<OutOfStockProductDto>>> GetOutOfStockProducts([FromQuery] string sortBy = "name")
     {
-        var products = await _productRepository.GetOutOfStockProductsAsync(sortBy);
+        var products = await _productService.GetOutOfStockProductsAsync(sortBy);
         return Ok(products);
     }
 
@@ -29,7 +29,7 @@ public class StoreController : ControllerBase
     [HttpDelete("order/{orderId}")]
     public async Task<IActionResult> DeleteOrder(int orderId)
     {
-        var result = await _orderRepository.DeleteOrderAsync(orderId);
+        var result = await _orderService.DeleteOrderAsync(orderId);
         if (!result)
             return NotFound(new { message = "Order not found." });
         return NoContent();

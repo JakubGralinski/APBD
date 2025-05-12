@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_05/APBD_05/APBD_05.csproj",
+      "projectUniqueName": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/HW_05/APBD_05.csproj",
       "projectName": "APBD_05",
-      "projectPath": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_05/APBD_05/APBD_05.csproj",
+      "projectPath": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/HW_05/APBD_05.csproj",
       "packagesPath": "/Users/jakubgralinski/.nuget/packages/",
-      "outputPath": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/APBD_05/APBD_05/obj/",
+      "outputPath": "/Users/jakubgralinski/Desktop/studies/PJATK_25_Summer_Semester/APBD/HW_05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jakubgralinski/.nuget/NuGet/NuGet.Config"
@@ -482,7 +482,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -512,7 +513,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/jakubgralinski/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/jakubgralinski/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

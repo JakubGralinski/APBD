@@ -1,0 +1,98 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Entity Framework
+Migrations/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.cache
+*.mdb
+*.opendb
+*.pidb
+*.svclog
+*.scc
+*.vsp
+*.vssscc
+*.vspscc
+*.tmp
+*.bak
+*.swp
+*.swo
+*.sln.docstates
+
+# User-specific files
+*.userprefs
+*.userosscache
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# DotCover
+.idea/.dotCover
+
+# Local database
+*.mdf
+*.ldf
+*.ndf
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Azure
+.scm/
+
+# Backup & Report files
+*.Backup
+*.bak
+*.BACPAC
+*.trn
+*.sql
+*.sqlproj.user
+
+# Publish Web Output
+*.Publish.xml
+
+# npm
+node_modules/
+
+# Mac
+.DS_Store
+
+# Python virtualenv
+venv/
+ENV/ 
