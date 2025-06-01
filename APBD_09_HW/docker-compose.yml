@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  db:
+    container_name: tutorial9_mssql
+    image: mcr.microsoft.com/mssql/server:latest
+    platform: linux/amd64
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=dummy_pass@123
+    volumes:
+      - mssql_data:/var/opt/mssql
+
+volumes:
+  mssql_data: 
